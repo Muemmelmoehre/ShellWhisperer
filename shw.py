@@ -1,5 +1,4 @@
-#!/usr/bin/python3 # for use on Kali or any other Linux machine
-# for Windows or Mac, please run: python3 shw.py <lang>
+# run with: python3 shw.py <lang>
 
 import argparse
 
