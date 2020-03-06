@@ -8,7 +8,7 @@ args = parser.parse_args()
 
 
 if(args.lang=="bash"):
-	print("/bbin/bash -i")
+	print("/bin/bash -i")
 
 elif(args.lang=="perl"):
 	print("perl -e 'exec \"/bin/bash\";'\nor\nexec \"/bin/bash\";")
