@@ -7,3 +7,8 @@ Run it with: python3 shw.py \<lang\>
 Supported languages and programs so far: bash, nano, perl, python, ruby and vim. More are yet to come. Stay tuned!
 
 Special thanks to @fin5tern15 for helping me out with a few questions on argparse!
+
+* * *
+
+I recently learnt about the existence of this awesome tool : https://github.com/mthbernardes/rsg
+Go check it out, it most likely has what you're looking for :D
